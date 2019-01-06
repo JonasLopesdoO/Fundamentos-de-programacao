@@ -5,4 +5,5 @@ Neste repositório são listados todas as questões para criação de algoritmos
 Dentre eles: Funções, Strings, Estruturas de condição, Estruturas de Repetição, Vetores e Matrizes.
 
 Haverá uma pasta somente com questões para exercitar a prática da lógica de programação.
+Todo o material é de autoria do professor cujo nome está escrito no pdf.
 Façam bom uso destas informações, Valeu! :D
